@@ -19,7 +19,6 @@ Events hosted by the Team may be done in conjunction with the Club, For example,
 
 ## Additional Definitions
 - 'The Union' means Adelaide University Union
-- 'Member' means a Member of the club
 - 'Committee Member' means a Member who holds a position on the Committee
 - 'General Meeting' means a general meeting of all Members of the Club convened in accordance with this Constitution
 - 'AGM' means the Annual General Meeting
@@ -52,11 +51,15 @@ The Secretary will maintain a register of members, including name, contact detai
 
 ## The Committee
 
-- The Committee shall be responsible for the management of the Club between General Meetings.
-- The Committee has the management and control of the assets of the Club.
-- The authority to interpret the meaning of the Constitution, and any matter on which the Constitution is silent, shall be vested in the Committee, subject to ratification at a General Meeting of the Club. Any interpretations must be made on majority agreement amongst committee members.
-- The Committee shall meet at least once per each academic term, either online or in-person, and outcomes must be minuted.
-- The Committee shall be comprised of the three Office Bearers.
+The Committee shall be responsible for the management of the Club between General Meetings.
+
+The Committee has the management and control of the assets of the Club.
+
+The authority to interpret the meaning of the Constitution, and any matter on which the Constitution is silent, shall be vested in the Committee, subject to ratification at a General Meeting of the Club. Any interpretations must be made on majority agreement amongst committee members.
+
+The Committee shall meet at least once per each academic term, either online or in-person, and outcomes must be minuted.
+
+The Committee shall be comprised of the three Office Bearers.
 
 ## Office Bearers
 
@@ -177,7 +180,5 @@ Any changes to this Constitution shall be registered with the Union within ten (
 
 I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the inaugural general meeting of the club held on the *13th of August, 2021*.
 
-<b>
-President:<br>
-Secretary:
-</b>
+**President:\
+Secretary:**
