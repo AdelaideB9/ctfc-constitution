@@ -180,5 +180,5 @@ Any changes to this Constitution shall be registered with the Union within ten (
 
 I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the inaugural general meeting of the club held on the *13th of August, 2021*.
 
-**President:\
-Secretary:**
+**President:** Lachlan Schilling\
+**Secretary:** Javad Hamidi
