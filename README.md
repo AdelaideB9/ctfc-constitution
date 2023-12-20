@@ -59,24 +59,51 @@ The authority to interpret the meaning of the Constitution, and any matter on wh
 
 The Committee shall meet at least once per each academic term, either online or in-person, and outcomes must be minuted.
 
-The Committee shall be comprised of the three Office Bearers.
+The Committee shall be comprised of the eight Office Bearers: the President, the Secretary, the Treasurer, the Events Manager, the Social Media Manager, the Team Manager, and two General Committee.
 
 ## Office Bearers
 
 The Office Bearers of the Club shall be:
 
-1. **The President**
+1. **The President** shall;
 
-    The President shall be responsible for chairing all meetings of the Club and the Committee, and shall also be the spokesperson for the Club. The President must be a student at the University of Adelaide.
+    - Be responsible for Chairing all meetings of the Club and the Committee.
+    - Be the spokesperson for the Club.
+    - Oversee the activities of the Club.
+    - Be a student at the University of Adelaide.
 
-2. **The Secretary**
+2. **The Secretary** shall;
 
-    The Secretary shall be responsible for calling and minuting all meetings of the Club, and maintaining the membership register.
+    - Be responsible for calling and minuting all meetings of the Club.
+    - Perform the roles of the President if they are not present. ?? 
+    - Maintaining the membership register.
 
-3. **The Treasurer**
+3. **The Treasurer** shall;
 
-    The Treasurer shall be responsible for maintaining the Club's financial accounts. The Treasurer must be a student at the University of Adelaide.
+    - Be responsible for maintaining the Club's financial accounts.
+    - Be a student at the University of Adelaide.
 
+4. **The Events Manager** shall;
+
+    - Be responsible for scheduling events.
+    - Be responsible for coordinating reservations.
+    - Delegate work for events among committee members and volunteers.
+    - Inform the Social Media Manager of upcoming events.
+
+5. **The Social Media Manager** shall;
+
+    - Be responsible for maintaining all social media accounts.
+    - Advertise upcoming club events on all applicable social media (including the AdelaideB9 website and Discord).
+    - Overseeing photography at in-person events.
+
+6. **The Team Manager** shall;
+
+    - Manage the "HackTheBox" team and the "CTFTime" team.
+    - Enrol the AdelaideB9 team(s) into specific CTFs, advertising this on the AdelaideB9 Discord and website, and admitting interested members to these teams. 
+
+7. **General Committee** shall;
+
+    - Be assigned to jobs by either the committee or themselves as required.
 
 **Any change in hands for the positions of President or Treasurer must be registered with the Union within ten (10) working days.**
 
@@ -178,7 +205,7 @@ Any changes to this Constitution shall be registered with the Union within ten (
 
 ## Certification
 
-I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the inaugural general meeting of the club held on the *13th of August, 2021*.
+I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the inaugural general meeting of the club held on the *DD of MM, YYYY*.
 
-**President:** Lachlan Schilling<br>
-**Secretary:** Javad Hamidi
+**President:** ...<br>
+**Secretary:** ...
