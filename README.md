@@ -59,49 +59,49 @@ The authority to interpret the meaning of the Constitution, and any matter on wh
 
 The Committee shall meet at least once per each academic term, either online or in-person, and outcomes must be minuted.
 
-The Committee shall be comprised of the eight Office Bearers: the President, the Secretary, the Treasurer, the Events Manager, the Social Media Manager, the Team Manager, and two General Committee.
+The Committee shall be comprised of the eight Office Bearers: the President, the Secretary, the Treasurer, the Events Manager, the Social Media Manager, the Team Manager, and two General Committee members.
 
 ## Office Bearers
 
-The Office Bearers of the Club shall be:
+The Office Bearers of the Club consist of:
 
-1. **The President** shall;
+1. **The President**, who shall:
 
-    - Be responsible for Chairing all meetings of the Club and the Committee.
+    - Be responsible for chairing all meetings of the Club and the Committee.
     - Be the spokesperson for the Club.
     - Oversee the activities of the Club.
     - Be a student at the University of Adelaide.
 
-2. **The Secretary** shall;
+2. **The Secretary**, who shall:
 
     - Be responsible for calling and minuting all meetings of the Club.
     - Perform the roles of the President if they are not present. ?? 
     - Maintaining the membership register.
 
-3. **The Treasurer** shall;
+3. **The Treasurer**, who shall:
 
     - Be responsible for maintaining the Club's financial accounts.
     - Be a student at the University of Adelaide.
 
-4. **The Events Manager** shall;
+4. **The Events Manager**, who shall:
 
     - Be responsible for scheduling events.
     - Be responsible for coordinating reservations.
     - Delegate work for events among committee members and volunteers.
     - Inform the Social Media Manager of upcoming events.
 
-5. **The Social Media Manager** shall;
+5. **The Social Media Manager**, who shall:
 
     - Be responsible for maintaining all social media accounts.
     - Advertise upcoming club events on all applicable social media (including the AdelaideB9 website and Discord).
     - Overseeing photography at in-person events.
 
-6. **The Team Manager** shall;
+6. **The Team Manager**, who shall:
 
     - Manage the "HackTheBox" team and the "CTFTime" team.
     - Enrol the AdelaideB9 team(s) into specific CTFs, advertising this on the AdelaideB9 Discord and website, and admitting interested members to these teams. 
 
-7. **General Committee** shall;
+7. **General Committee**, who shall:
 
     - Be assigned to jobs by either the committee or themselves as required.
 
