@@ -75,7 +75,7 @@ The Office Bearers of the Club consist of:
 2. **The Secretary**, who shall:
 
     - Be responsible for calling and minuting all meetings of the Club.
-    - Perform the roles of the President if they are not present. ?? 
+    - Perform the roles of the President if they are not present.
     - Maintaining the membership register.
 
 3. **The Treasurer**, who shall:
