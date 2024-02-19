@@ -9,7 +9,7 @@ Any participating Member of the Club is considered a part of the Team, and are s
 
 ## Team
 
-"AdelaideB9" is the name of the Team. While the Team is managed by the Club, it is not formally affiliated with the University of Adelaide Union. 
+"AdelaideB9" is the name of the Team. While the Team is managed by the Club, it is not formally affiliated with the Union. 
 
 In the future, the Club may manage multiple teams, or change the official names of existing teams. These changes must be made with the oversight of the Office Bearers.
 
@@ -18,7 +18,7 @@ The Club exists to support the Team. The Team competes primarily in CTFs and oth
 Events hosted by the Team may be done in conjunction with the Club, For example, practice CTFs that may be held on university grounds.
 
 ## Additional Definitions
-- 'The Union' means Adelaide University Union
+- 'The Union' means YouX
 - 'Committee Member' means a Member who holds a position on the Committee
 - 'General Meeting' means a general meeting of all Members of the Club convened in accordance with this Constitution
 - 'AGM' means the Annual General Meeting
@@ -59,24 +59,51 @@ The authority to interpret the meaning of the Constitution, and any matter on wh
 
 The Committee shall meet at least once per each academic term, either online or in-person, and outcomes must be minuted.
 
-The Committee shall be comprised of the three Office Bearers.
+The Committee shall be comprised of the eight Office Bearers: the President, the Secretary, the Treasurer, the Events Manager, the Social Media Manager, the Team Manager, and two General Committee members.
 
 ## Office Bearers
 
-The Office Bearers of the Club shall be:
+The Office Bearers of the Club consist of:
 
-1. **The President**
+1. **The President**, who shall:
 
-    The President shall be responsible for chairing all meetings of the Club and the Committee, and shall also be the spokesperson for the Club. The President must be a student at the University of Adelaide.
+    - Be responsible for chairing all meetings of the Club and the Committee.
+    - Be the spokesperson for the Club.
+    - Oversee the activities of the Club.
+    - Be a student at the University of Adelaide.
 
-2. **The Secretary**
+2. **The Secretary**, who shall:
 
-    The Secretary shall be responsible for calling and minuting all meetings of the Club, and maintaining the membership register.
+    - Be responsible for calling and minuting all meetings of the Club.
+    - Perform the roles of the President if they are not present.
+    - Maintaining the membership register.
 
-3. **The Treasurer**
+3. **The Treasurer**, who shall:
 
-    The Treasurer shall be responsible for maintaining the Club's financial accounts. The Treasurer must be a student at the University of Adelaide.
+    - Be responsible for maintaining the Club's financial accounts.
+    - Be a student at the University of Adelaide.
 
+4. **The Events Manager**, who shall:
+
+    - Be responsible for scheduling events.
+    - Be responsible for coordinating reservations.
+    - Delegate work for events among committee members and volunteers.
+    - Inform the Social Media Manager of upcoming events.
+
+5. **The Social Media Manager**, who shall:
+
+    - Be responsible for maintaining all social media accounts.
+    - Advertise upcoming club events on all applicable social media (including the AdelaideB9 website and Discord).
+    - Overseeing photography at in-person events.
+
+6. **The Team Manager**, who shall:
+
+    - Manage the "HackTheBox" team and the "CTFTime" team.
+    - Enrol the AdelaideB9 team(s) into specific CTFs, advertising this on the AdelaideB9 Discord and website, and admitting interested members to these teams. 
+
+7. **General Committee**, who shall:
+
+    - Be assigned to jobs by either the committee or themselves as required.
 
 **Any change in hands for the positions of President or Treasurer must be registered with the Union within ten (10) working days.**
 
@@ -162,7 +189,7 @@ Through majority rule, a clear agreement is to be made by all participants prior
 
 ## Dissolution of the Club
 
-If the Club at any point ceases to operate, the Team is to dissociate from the Club and the University of Adelaide at the discression of the remaining active members. In this event, the assets that were accumulated independently from the Union and/or The University of Adelaide (such as grants or monetary aid) will be given to the team and removed from the Net Assets. 
+If the Club at any point ceases to operate, the Team is to dissociate from the Club and the University of Adelaide at the discretion of the remaining active members. In this event, the assets that were accumulated independently from the Union and/or The University of Adelaide (such as grants or monetary aid) will be given to the team and removed from the Net Assets. 
 
 Following the dissolution of the Club, Net Assets are transferred to the Union. This is the role of the Treasurer in communication with the Executive Committee.
 
@@ -178,7 +205,12 @@ Any changes to this Constitution shall be registered with the Union within ten (
 
 ## Certification
 
-I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the inaugural general meeting of the club held on the *13th of August, 2021*.
+I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the AGM of the club held on the *9 of Feb, 2024*.
 
-**President:** Lachlan Schilling<br>
-**Secretary:** Javad Hamidi
+**President** Sidney Bruneder
+**Secretary** Kei Li
+**Treasurer** Rowan Fimmano
+**Events Manager** Carlos Garcia
+**Social Media Manager** Jacob Penglis
+**Team Manager** William Johnston
+**General Committee** James Hutchins, Gautam Das
