@@ -207,10 +207,10 @@ Any changes to this Constitution shall be registered with the Union within ten (
 
 I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the AGM of the club held on the *9 of Feb, 2024*.
 
-**President** Sidney Bruneder
-**Secretary** Kei Li
-**Treasurer** Rowan Fimmano
-**Events Manager** Carlos Garcia
-**Social Media Manager** Jacob Penglis
-**Team Manager** William Johnston
+**President** Sidney Bruneder<br>
+**Secretary** Kei Li<br>
+**Treasurer** Rowan Fimmano<br>
+**Events Manager** Carlos Garcia<br>
+**Social Media Manager** Jacob Penglis<br>
+**Team Manager** William Johnston<br>
 **General Committee** James Hutchins, Gautam Das
