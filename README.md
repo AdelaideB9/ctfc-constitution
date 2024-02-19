@@ -18,6 +18,7 @@ The Club exists to support the Team. The Team competes primarily in CTFs and oth
 Events hosted by the Team may be done in conjunction with the Club, For example, practice CTFs that may be held on university grounds.
 
 ## Additional Definitions
+
 - 'The Union' means YouX
 - 'Committee Member' means a Member who holds a position on the Committee
 - 'General Meeting' means a general meeting of all Members of the Club convened in accordance with this Constitution
