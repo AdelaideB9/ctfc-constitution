@@ -18,7 +18,7 @@ The Club exists to support the Team. The Team competes primarily in CTFs and oth
 Events hosted by the Team may be done in conjunction with the Club, For example, practice CTFs that may be held on university grounds.
 
 ## Additional Definitions
-- 'The Union' means Adelaide University Union
+- 'The Union' means YouX
 - 'Committee Member' means a Member who holds a position on the Committee
 - 'General Meeting' means a general meeting of all Members of the Club convened in accordance with this Constitution
 - 'AGM' means the Annual General Meeting
@@ -189,7 +189,7 @@ Through majority rule, a clear agreement is to be made by all participants prior
 
 ## Dissolution of the Club
 
-If the Club at any point ceases to operate, the Team is to dissociate from the Club and the University of Adelaide at the discression of the remaining active members. In this event, the assets that were accumulated independently from the Union and/or The University of Adelaide (such as grants or monetary aid) will be given to the team and removed from the Net Assets. 
+If the Club at any point ceases to operate, the Team is to dissociate from the Club and the University of Adelaide at the discretion of the remaining active members. In this event, the assets that were accumulated independently from the Union and/or The University of Adelaide (such as grants or monetary aid) will be given to the team and removed from the Net Assets. 
 
 Following the dissolution of the Club, Net Assets are transferred to the Union. This is the role of the Treasurer in communication with the Executive Committee.
 
