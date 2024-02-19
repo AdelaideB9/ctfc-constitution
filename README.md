@@ -9,7 +9,7 @@ Any participating Member of the Club is considered a part of the Team, and are s
 
 ## Team
 
-"AdelaideB9" is the name of the Team. While the Team is managed by the Club, it is not formally affiliated with the University of Adelaide Union. 
+"AdelaideB9" is the name of the Team. While the Team is managed by the Club, it is not formally affiliated with the Union. 
 
 In the future, the Club may manage multiple teams, or change the official names of existing teams. These changes must be made with the oversight of the Office Bearers.
 
