@@ -9,7 +9,7 @@ Any participating Member of the Club is considered a part of the Team, and are s
 
 ## Team
 
-"AdelaideB9" is the name of the Team. While the Team is managed by the Club, it is not formally affiliated with the Union. 
+"AdelaideB9" is the name of the Team. While the Team is managed by the Club, it is not formally affiliated with YouX. 
 
 In the future, the Club may manage multiple teams, or change the official names of existing teams. These changes must be made with the oversight of the Office Bearers.
 
@@ -18,8 +18,7 @@ The Club exists to support the Team. The Team competes primarily in CTFs and oth
 Events hosted by the Team may be done in conjunction with the Club, For example, practice CTFs that may be held on university grounds.
 
 ## Additional Definitions
-
-- 'The Union' means YouX
+-  References to 'The Union' refer to YouX
 - 'Committee Member' means a Member who holds a position on the Committee
 - 'General Meeting' means a general meeting of all Members of the Club convened in accordance with this Constitution
 - 'AGM' means the Annual General Meeting
@@ -29,7 +28,7 @@ Events hosted by the Team may be done in conjunction with the Club, For example,
 
 ## Registration
 
-The Club will be registered with the Union, and will renew registration as required.
+The Club will be registered with YouXf, and will renew registration as required.
 
 ## Not for Profit
 
@@ -106,7 +105,7 @@ The Office Bearers of the Club consist of:
 
     - Be assigned to jobs by either the committee or themselves as required.
 
-**Any change in hands for the positions of President or Treasurer must be registered with the Union within ten (10) working days.**
+**Any change in hands for the positions of President or Treasurer must be registered with YouX within ten (10) working days.**
 
 ## Disqualification of Committee Members
 
@@ -147,11 +146,11 @@ If a quorum is not present within half an hour of the scheduled time of commence
 ## Notice of Meetings
 Seven (7) days notice shall be given to Members for an AGM or SGM. The notice shall set out where and when the meeting will be held, and particulars of the nature and order of the business to be transacted at the meeting.
 
-Seven (7) days notice of an AGM or SGM must be given to the Union Clubs Administrator.
+Seven (7) days notice of an AGM or SGM must be given to the YouX Clubs Administrator.
 
 Notice of General Meetings must be given to all Members in writing.
 
-The minutes and all details from an AGM or SGM need to be registered with the Union Clubs within ten (10) working days.
+The minutes and all details from an AGM or SGM need to be registered with YouX Clubs within ten (10) working days.
 
 
 ## Annual General Meetings
@@ -181,7 +180,7 @@ The Treasurer shall keep and maintain proper books and accounts accurately showi
 
 All payments and reimbursements shall be firstly approved and authorised by the Committee or at a General Meeting of the Club.
 
-Upon request by an Authorised Officer of the Union, the Treasurer shall provide a report on the finances and transactions of the Club. 
+Upon request by an Authorised Officer of YouX, the Treasurer shall provide a report on the finances and transactions of the Club. 
 
 
 ## Distribution of Prizes
@@ -190,9 +189,9 @@ Through majority rule, a clear agreement is to be made by all participants prior
 
 ## Dissolution of the Club
 
-If the Club at any point ceases to operate, the Team is to dissociate from the Club and the University of Adelaide at the discretion of the remaining active members. In this event, the assets that were accumulated independently from the Union and/or The University of Adelaide (such as grants or monetary aid) will be given to the team and removed from the Net Assets. 
+If the Club at any point ceases to operate, the Team is to dissociate from the Club and the University of Adelaide at the discretion of the remaining active members. In this event, the assets that were accumulated independently from YouX and/or The University of Adelaide (such as grants or monetary aid) will be given to the team and removed from the Net Assets. 
 
-Following the dissolution of the Club, Net Assets are transferred to the Union. This is the role of the Treasurer in communication with the Executive Committee.
+Following the dissolution of the Club, Net Assets are transferred to YouX. This is the role of the Treasurer in communication with the Executive Committee.
 
 ## Alterations to the Constitution
 
@@ -200,7 +199,7 @@ Alterations or amendments to this Constitution shall be made only at an AGM or S
 
 Notices of intention to alter or amend the Constitution must be sent to all Members at least seven (7) days prior to the date at which the meeting will be held to consider such alterations.
 
-Any changes to this Constitution shall be registered with the Union within ten (10) working days, including:
+Any changes to this Constitution shall be registered with YouX within ten (10) working days, including:
 - The updated Constitution
 - An outline of the changes
 
