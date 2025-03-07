@@ -59,7 +59,7 @@ The authority to interpret the meaning of the Constitution, and any matter on wh
 
 The Committee shall meet at least once per each academic term, either online or in-person, and outcomes must be minuted.
 
-The Committee shall be comprised of the eight Office Bearers: the President, the Secretary, the Treasurer, the Events Manager, the Social Media Manager, the Team Manager, and two General Committee members.
+The Committee shall be comprised of the eight to ten Office Bearers: the President, the Secretary, the Treasurer, the Events Manager, the Social Media Manager, the Team Manager, the Infrastructure Manager, the Sponsorship Manager, and up to two General Committee members.
 
 ## Office Bearers
 
@@ -99,9 +99,20 @@ The Office Bearers of the Club consist of:
 6. **The Team Manager**, who shall:
 
     - Manage the "HackTheBox" team and the "CTFTime" team.
-    - Enrol the AdelaideB9 team(s) into specific CTFs, advertising this on the AdelaideB9 Discord and website, and admitting interested members to these teams. 
+    - Enrol the AdelaideB9 team(s) into specific CTFs, advertising this on the AdelaideB9 Discord and website, and admitting interested members to these teams.
 
-7. **General Committee**, who shall:
+7. **Infrastructure Manager**, who shall:
+   
+    - Be responsible for maintaining the website(s), membership platform and server(s).
+    - Be available for technical assistance for events, including setting up challenge hosting on CTF platforms.
+   
+9. **Sponsorship Manager**, who shall:
+
+    - Be responsible for the fulfillment of sponsorship contract requirements.
+    - Contacting sponsors as nessesary.
+    - Maintaining sponsorship materials.
+
+11. **General Committee**, who shall:
 
     - Be assigned to jobs by either the committee or themselves as required.
 
@@ -205,12 +216,7 @@ Any changes to this Constitution shall be registered with YouX within ten (10) w
 
 ## Certification
 
-I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the AGM of the club held on the *9 of Feb, 2024*.
+I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the AGM of the club held on the *7th of March, 2025*.
 
-**President** Sidney Bruneder<br>
-**Secretary** Kei Li<br>
-**Treasurer** Rowan Fimmano<br>
-**Events Manager** Carlos Garcia<br>
-**Social Media Manager** Jacob Penglis<br>
-**Team Manager** William Johnston<br>
-**General Committee** James Hutchins, Gautam Das
+**President** [TBD]<br>
+**Secretary** [TBD]<br>
