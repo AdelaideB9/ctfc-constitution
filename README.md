@@ -28,7 +28,7 @@ Events hosted by the Team may be done in conjunction with the Club, For example,
 
 ## Registration
 
-The Club will be registered with YouXf, and will renew registration as required.
+The Club will be registered with YouX, and will renew registration as required.
 
 ## Not for Profit
 
@@ -218,5 +218,11 @@ Any changes to this Constitution shall be registered with YouX within ten (10) w
 
 I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the AGM of the club held on the *7th of March, 2025*.
 
-**President** [TBD]<br>
-**Secretary** [TBD]<br>
+**President** Louis Parry-Mills x
+**Secretary** Sidney Bruneder x
+**Treasurer**  Lloyd Draysey 
+**Event Manager** Carlos Garcia x
+**Social Media Manager** Kei Li x
+**Team Manager** Will Johnston x
+**Infrastructure Manager** TBD
+**Sponsorship Manager** Lloyd Draysey
