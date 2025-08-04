@@ -222,7 +222,8 @@ I certify that this is a true and correct copy of the Constitution of the Captur
 
 **Secretary** Sidney Bruneder
 
-**Treasurer**  Lloyd Draysey 
+**Treasurer**  Lloyd Draysey
+
 **Event Manager** Carlos Garcia
 
 **Social Media Manager** Kei Li
