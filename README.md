@@ -218,7 +218,7 @@ Any changes to this Constitution shall be registered with YouX within ten (10) w
 
 I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the AGM of the club held on the *7th of March, 2025*.
 
-**President** Louis Parry-Mills
+**President** Louis K Mills
 
 **Secretary** Sidney Bruneder
 
@@ -230,6 +230,6 @@ I certify that this is a true and correct copy of the Constitution of the Captur
 
 **Team Manager** Will Johnston
 
-**Infrastructure Manager** TBD
+**Infrastructure Manager** Vinh Đinh
 
 **Sponsorship Manager** Lloyd Draysey
