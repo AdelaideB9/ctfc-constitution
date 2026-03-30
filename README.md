@@ -60,7 +60,7 @@ The Committee shall meet at least once per each academic term, either online or 
 
 The committee must take all reasonable steps to ensure that the club complies with its obligations under this constitution and any additional conditions of registration with AUSA or Adelaide University.
 
-The Committee shall be comprised of the eight to twelve Office Bearers: the President, the Secretary, the Treasurer, the Events Manager, the Social Media Manager, the Team Manager, the Infrastructure Manager, the Sponsorship Manager, and up to four General Committee members.
+The Committee shall be comprised of the eight to thirteen Office Bearers: the President, the Secretary, the Treasurer, the Events Manager, the Social Media Manager, the Team Manager, the Infrastructure Manager, the Sponsorship Manager, and up to five General Committee members.
 
 ## Office Bearers
 
