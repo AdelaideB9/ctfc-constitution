@@ -166,7 +166,7 @@ The minutes and all details from an AGM or SGM need to be registered with AUSA w
 
 ## Annual General Meetings
 
-The AGM of the Club must be held within 18 months after the formation of the Club, and thereafter by October each year.
+The AGM of the Club must be held within 18 months after the formation of the Club, and between the 1st of November and the 31st of March.
 
 The following business is to be considered at the AGM:
 - Confirmation of the minutes of the previous AGM and any SGMs held in the intervening time
