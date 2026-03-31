@@ -1,24 +1,23 @@
 # Capture the Flag Club Constitution
 
-Capture the Flag Club (the "Club") represents the University of Adelaide’s cyber-security talent in the form of a centralised platform, providing resources and managing a student-led collaborative environment to individuals of the Club ("Members"). Additionally, the Club serves as an outlet for applying the cyber-security skills taught in courses offered by the University of Adelaide through Capture the Flag competitions ("CTFs"). The Club's governing body (the "Committee") and individuals who serve on it ("Office Bearers"), manage and provide support to our competitive Capture the Flag team (the "Team") and all members of the Club, in addition to their responsibilities. The primary objective of the Club is to educate Members, oversee competitive CTF events, and to satisfy the demand for a competitive CTF team representing South Australian tertiary students.
+Capture the Flag Club (the "Club") represents Adelaide University’s cyber-security talent in the form of a centralised platform, providing resources and managing a student-led collaborative environment to individuals of the Club ("Members"). Additionally, the Club serves as an outlet for applying the cyber-security skills taught in courses offered by Adelaide University through Capture the Flag competitions ("CTFs"). The Club's governing body (the "Committee") and individuals who serve on it ("Office Bearers"), manage and provide support to our competitive Capture the Flag team (the "Team") and all members of the Club, in addition to their responsibilities. The primary objective of the Club is to educate Members, oversee competitive CTF events, and to satisfy the demand for a competitive CTF team representing South Australian tertiary students.
 
 The above services provided by the Club to Members are collectively referred to as "Membership".
 
-Any participating Member of the Club is considered a part of the Team, and are subject to the same conditions of participation. The Committee reserves the right to revoke Membership at any time.
-
+Any participating Member of the Club is considered a part of the Team, and are subject to the same conditions of participation. The Committee reserves the right to revoke Membership at any time
 
 ## Team
 
-"AdelaideB9" is the name of the Team. While the Team is managed by the Club, it is not formally affiliated with YouX. 
+"AdelaideB9" is the name of the Team. While the Team is managed by the Club, it is not formally affiliated with AUSA. 
 
 In the future, the Club may manage multiple teams, or change the official names of existing teams. These changes must be made with the oversight of the Office Bearers.
 
-The Club exists to support the Team. The Team competes primarily in CTFs and other cyber-security activities that are external to the University of Adelaide.
+The Club exists to support the Team. The Team competes primarily in CTFs and other cyber-security activities that are external to Adelaide University.
 
 Events hosted by the Team may be done in conjunction with the Club, For example, practice CTFs that may be held on university grounds.
 
 ## Additional Definitions
--  References to 'The Union' refer to YouX
+-  References to 'The Union' and 'AUSA' refer to Adelaide University Student Association
 - 'Committee Member' means a Member who holds a position on the Committee
 - 'General Meeting' means a general meeting of all Members of the Club convened in accordance with this Constitution
 - 'AGM' means the Annual General Meeting
@@ -28,7 +27,7 @@ Events hosted by the Team may be done in conjunction with the Club, For example,
 
 ## Registration
 
-The Club will be registered with YouX, and will renew registration as required.
+The Club will be registered with AUSA, and will renew registration as required.
 
 ## Not for Profit
 
@@ -37,15 +36,15 @@ The Club will be registered with YouX, and will renew registration as required.
 
 ## Membership
 
-Membership shall be open to all interested students of the University of Adelaide, and other Members as determined by the Club.
+Membership shall be open to all interested students of Adelaide University, and other Members as determined by the Club.
 
-A minimum of 50% of the total number of Members must be students from the University of Adelaide. 
+A minimum of 70% of the total number of current Members must be students from Adelaide University. 
 
 Members may freely join the Club, provided they meet the requirements regarding Membership and have paid a membership fee as determined at the beginning of the academic year by the Committee.
 
 A Member may resign from Membership of the Club by giving written notice to the Committee or by using the Club's digital platform.
 
-Subject to allowing a Member to be heard or to make a written submission, the Committee may expel a Member upon a charge of misconduct detrimental to the interests of the Club, the University of Adelaide, or the Union and its affiliates.
+Subject to allowing a Member to be heard or to make a written submission, the Committee may expel a Member upon a charge of misconduct detrimental to the interests of the Club, Adelaide University, or the Union and its affiliates.
 
 The Secretary will maintain a register of members, including name, contact details, and student number where relevant. 
 
@@ -59,7 +58,9 @@ The authority to interpret the meaning of the Constitution, and any matter on wh
 
 The Committee shall meet at least once per each academic term, either online or in-person, and outcomes must be minuted.
 
-The Committee shall be comprised of the eight to ten Office Bearers: the President, the Secretary, the Treasurer, the Events Manager, the Social Media Manager, the Team Manager, the Infrastructure Manager, the Sponsorship Manager, and up to two General Committee members.
+The committee must take all reasonable steps to ensure that the club complies with its obligations under this constitution and any additional conditions of registration with AUSA or Adelaide University.
+
+The Committee shall be comprised of the eight to thirteen Office Bearers: the President, the Secretary, the Treasurer, the Events Manager, the Social Media Manager, the Team Manager, the Infrastructure Manager, the Sponsorship Manager, and up to five General Committee members.
 
 ## Office Bearers
 
@@ -70,7 +71,7 @@ The Office Bearers of the Club consist of:
     - Be responsible for chairing all meetings of the Club and the Committee.
     - Be the spokesperson for the Club.
     - Oversee the activities of the Club.
-    - Be a student at the University of Adelaide.
+    - Be a student at Adelaide University.
 
 2. **The Secretary**, who shall:
 
@@ -81,7 +82,7 @@ The Office Bearers of the Club consist of:
 3. **The Treasurer**, who shall:
 
     - Be responsible for maintaining the Club's financial accounts.
-    - Be a student at the University of Adelaide.
+    - Be a student at Adelaide University.
 
 4. **The Events Manager**, who shall:
 
@@ -116,7 +117,7 @@ The Office Bearers of the Club consist of:
 
     - Be assigned to jobs by either the committee or themselves as required.
 
-**Any change in hands for the positions of President or Treasurer must be registered with YouX within ten (10) working days.**
+**Any change in hands for the positions of President or Treasurer must be registered with AUSA within ten (10) working days.**
 
 ## Disqualification of Committee Members
 
@@ -134,7 +135,7 @@ Any Member who does not abide by these conditions, at the discretion of the Club
 
 - Breaching the allowed scope of engagement (digital and/or physical) for any CTF.
 - Derogatory or disuniting remarks towards an entity, body, or individual.
-- Using the name or logo of the Club, the Team or the University of Adelaide without permission from an Office Bearer.
+- Using the name or logo of the Club, the Team or Adelaide University without permission from an Office Bearer.
 
 Suspicion of election tampering can be raised by any member within the fortnight following an election.
 
@@ -157,16 +158,15 @@ If a quorum is not present within half an hour of the scheduled time of commence
 ## Notice of Meetings
 Seven (7) days notice shall be given to Members for an AGM or SGM. The notice shall set out where and when the meeting will be held, and particulars of the nature and order of the business to be transacted at the meeting.
 
-Seven (7) days notice of an AGM or SGM must be given to the YouX Clubs Administrator.
+Seven (7) days notice of an AGM or SGM must be given to AUSA.
 
 Notice of General Meetings must be given to all Members in writing.
 
-The minutes and all details from an AGM or SGM need to be registered with YouX Clubs within ten (10) working days.
-
+The minutes and all details from an AGM or SGM need to be registered with AUSA within ten (10) working days.
 
 ## Annual General Meetings
 
-The AGM of the Club must be held within 18 months after the formation of the Club, and thereafter by October each year.
+The AGM of the Club must be held within 18 months after the formation of the Club, and between the 1st of November and the 31st of March.
 
 The following business is to be considered at the AGM:
 - Confirmation of the minutes of the previous AGM and any SGMs held in the intervening time
@@ -191,7 +191,7 @@ The Treasurer shall keep and maintain proper books and accounts accurately showi
 
 All payments and reimbursements shall be firstly approved and authorised by the Committee or at a General Meeting of the Club.
 
-Upon request by an Authorised Officer of YouX, the Treasurer shall provide a report on the finances and transactions of the Club. 
+Upon request by an Authorised Officer of AUSA, the Treasurer shall provide a report on the finances and transactions of the Club.
 
 
 ## Distribution of Prizes
@@ -200,36 +200,38 @@ Through majority rule, a clear agreement is to be made by all participants prior
 
 ## Dissolution of the Club
 
-If the Club at any point ceases to operate, the Team is to dissociate from the Club and the University of Adelaide at the discretion of the remaining active members. In this event, the assets that were accumulated independently from YouX and/or The University of Adelaide (such as grants or monetary aid) will be given to the team and removed from the Net Assets. 
+If the Club at any point ceases to operate, the Team is to dissociate from the Club and Adelaide University at the discretion of the remaining active members. In this event, the assets that were accumulated independently from AUSA and/or Adelaide University (such as grants or monetary aid) will be given to the team and removed from the Net Assets. 
 
-Following the dissolution of the Club, Net Assets are transferred to YouX. This is the role of the Treasurer in communication with the Executive Committee.
+Following the dissolution of the Club, Net Assets are transferred to AUSA. This is the role of the Treasurer in communication with the Executive Committee.
+
+The club may be dissolved and cease to be registered if the number of current members falls below 10 members, through a special resolution at a general meeting, or if the clubs fails to comply with the terms of agreements made to supervisory organisations.
 
 ## Alterations to the Constitution
 
-Alterations or amendments to this Constitution shall be made only at an AGM or SGM, duly called in accordance with the procedures of the Constitution, and must be carried by a vote of a two-thirds majority of the Members present at the meeting.
+Alterations or amendments to this Constitution shall be made only at an AGM or SGM, duly called in accordance with the procedures of the Constitution, and must be carried by a vote of a 75% of the Members present at the meeting.
 
 Notices of intention to alter or amend the Constitution must be sent to all Members at least seven (7) days prior to the date at which the meeting will be held to consider such alterations.
 
-Any changes to this Constitution shall be registered with YouX within ten (10) working days, including:
+Any changes to this Constitution shall be registered with AUSA within ten (10) working days, including:
 - The updated Constitution
 - An outline of the changes
 
 ## Certification
 
-I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the AGM of the club held on the *7th of March, 2025*.
+I certify that this is a true and correct copy of the Constitution of the Capture the Flag Club as adopted at the AGM of the club held on the *27th of March, 2026*.
 
-**President** Louis K Mills
+**President** Jacob Mancini
 
-**Secretary** Sidney Bruneder
+**Secretary** Mohammed Mujtaba
 
-**Treasurer**  Lloyd Draysey
+**Treasurer**  Noel Mascarenhas
 
 **Event Manager** Carlos Garcia
 
-**Social Media Manager** Kei Li
+**Social Media Manager** Sidney Bruneder
 
-**Team Manager** Will Johnston
+**Team Manager** Jeet Amish Dalal
 
 **Infrastructure Manager** Vinh Đinh
 
-**Sponsorship Manager** Lloyd Draysey
+**Sponsorship Manager** Louis K Mills
